@@ -1,0 +1,14 @@
+{
+  "name": "HelloWorld",
+  "description": "My first back end view",
+  "namespace": "HelloWorld",
+  "author": "plentymarkets GmbH",
+  "type": "backend",
+  "serviceProvider": "HelloWorld\\Providers\\HelloWorldServiceProvider",
+  "version":"0.0.1",
+  "license":"MIT",
+  "keywords":["terra","backend", "first", "view"],
+  "pluginIcon":"icon_plugin_xs.png",
+  "price":0.00,
+  "authorIcon":"icon_author_xs.png"
+}
